@@ -1,7 +1,16 @@
 ### Hi there 👋
 
-I'm Mohammad Eydimorad, an experienced Software Engineer and Full Stack Developer with a decade of expertise in web application development. My skills encompass C#, JavaScript, TypeScript, Node.JS, and React.JS, allowing me to craft interactive applications focusing on seamless integration and optimal performance. Among my notable achievements is an 80% reduction in time-to-market through agile methodologies, and I've taken on leadership roles in teams of up to 8 members. I leverage tools like Azure DevOps and am proficient in DevOps principles, test-driven development (TDD), and behavior-driven development (BDD). My passion for staying ahead in technology drives innovation and a results-oriented mindset in every project. Let's connect on LinkedIn or feel free to email me at m.eidimorad@gmail.com. I'm open to new opportunities and collaborations!
+I'm Mohammad Eydimorad, an experienced software engineer and full-stack developer with a decade of expertise in web application development. 
+My skills encompass C#, JavaScript, TypeScript, Node.JS, and React.JS, allowing me to craft interactive applications focusing on seamless integration and optimal performance. 
 
+💬 Ask me about
+- .Net Core
+- Microservices
+- Event-Driven Architecture
+- Test-Driven Development (TDD)
+- Behavior-Driven Development (BDD)
+- Azure DevOps
+  
 📫 How to reach me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/eydimorad)
