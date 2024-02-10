@@ -5,6 +5,8 @@ My skills encompass C#, JavaScript, TypeScript, Node.JS, and React.JS, allowing 
 
 💬 Ask me about
 - .Net Core
+- Node.js
+- Nest.js
 - Microservices
 - Event-Driven Architecture
 - Test-Driven Development (TDD)
